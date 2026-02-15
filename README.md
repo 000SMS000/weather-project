@@ -1,4 +1,4 @@
-# Dockerized Weather Web Service
+# Weather Web Project
 
 ## Project Description
 This project is a simple Dockerized Weather Web Service built using Node.js and Express. It fetches real-time weather data for a selected city using the OpenWeatherMap API and returns the result in JSON format. The application runs inside a Docker container and can be reproduced on any machine.
